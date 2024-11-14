@@ -57,5 +57,5 @@ def feladat_2():
     for szo in szavak:
         print(szo)
 
-feladat()
+#feladat()
 feladat_2()
